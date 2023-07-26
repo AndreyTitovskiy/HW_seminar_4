@@ -21,10 +21,3 @@ for i in range(n):
     max_collected = max(max_collected, collected)
 
 print("Максимальное число ягод:", max_collected)
-
-
-
-
-
-
-
